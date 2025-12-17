@@ -1,10 +1,10 @@
 // C/C++ testcases for matching wildcards, including UTF-8 strings.
 //
 // Copyright 2025 Kirk J Krauss.  This is a Derivative Work based on 
-// material that is copyright 2018 developforPerformance.com and available 
+// material that is copyright 2025 Kirk J Krauss and available 
 // at
 //
-//     https://developforperformance.com/MatchingWildcards_AnImprovedAlgorithmForBigData.html
+//     https://developforperformance.com/MatchingWildcardsInRust.html
 // 
 // Licensed under the Apache License, Version 2.0 (the "License")
 // you may not use this file except in compliance with the License.
@@ -667,4 +667,5 @@ int main(void)
 #endif
 
 	return 0;
+
 }
