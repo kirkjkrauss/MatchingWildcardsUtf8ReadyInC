@@ -1,7 +1,7 @@
 // UTF-8-ready C++ routines for matching wildcards.
 //
 // Copyright 2025 Kirk J Krauss.  This is a Derivative Work based on 
-// material that is copyright 2025 Kirk J Krauss and available at
+// material that is copyright 2018 IBM Corporation and available at
 //
 //     https://developforperformance.com/MatchingWildcards_AnImprovedAlgorithmForBigData.html
 // 
@@ -650,4 +650,5 @@ bool FastWildCompare(char *pWild, char *pTame)
 		++pWild;                       // Everything's still a match.
 		++pTame;
 	} while (true);
+
 }
